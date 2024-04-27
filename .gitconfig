@@ -1,0 +1,4 @@
+[commit]
+  gpgsign = true
+
+signingkey = 325B0128A2A4FD58

@@ -1,4 +1,4 @@
-# Basic WFA Password generator
+# Basic WFA Password Generator
 A basic and simple password generator desktop app based on the .NET Windows Forms UI Framework.
 
 
@@ -7,14 +7,6 @@ A basic and simple password generator desktop app based on the .NET Windows Form
 ## Build It Yourself
 
 You can build the program yourself using Visual Studio (tested in 2017 and up). You can instead also download the binary here.
-> [!Warning]
-> THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
 
 ### Prerequisites
 
@@ -49,8 +41,6 @@ PERFORMANCE OF THIS SOFTWARE.
 If you find any issues or have suggestions for improvements, feel free to contribute to the project by submitting pull requests or opening issues on GitHub. I would appreciate it hehe.
 
 ### License
- [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/derkandre/Basic-WFA-Password-Gen/blob/master/README.md)
-This project is licensed under the ISC License in which the full license text can be found here:
-> https://github.com/derkandre/Basic-WFA-Password-Gen/blob/master/README.md
-# Basic WFA Password generator
-A basic and simple password generator desktop app based on the .NET Windows Forms UI Framework.
+ [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://github.com/derkandre/Basic-WFA-Password-Gen/blob/master/LICENSE.md) <br>
+This project is licensed under the [ISC License](https://license.md/licenses/isc-license/) in which the full license text can be found here:
+> https://github.com/derkandre/Basic-WFA-Password-Gen/blob/master/LICENSE.md
