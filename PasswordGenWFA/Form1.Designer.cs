@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             Length = new Label();
             panel1 = new Panel();
             lengthField = new NumericUpDown();
@@ -155,6 +156,7 @@
             Controls.Add(panel1);
             Controls.Add(panel2);
             Controls.Add(menuStrip1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "Basic Password Gen";
